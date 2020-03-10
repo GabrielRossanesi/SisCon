@@ -6,10 +6,7 @@
 
 package model;
 
-/**
- *
- * @author Murilau
- */
+
 public class Banco extends Conta{
     
     private String agencia;

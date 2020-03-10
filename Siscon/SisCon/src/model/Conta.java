@@ -6,10 +6,6 @@
 
 package model;
 
-/**
- *
- * @author Murilau
- */
 public class Conta {
     private String nome;
     private double saldo;

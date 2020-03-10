@@ -6,10 +6,7 @@
 
 package model;
 
-/**
- *
- * @author Murilau
- */
+
 public class Poupanca extends Banco{
     private int aniversario;
 

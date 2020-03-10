@@ -6,10 +6,7 @@
 
 package model;
 
-/**
- *
- * @author Murilau
- */
+
 public class Carteira extends Conta{
     private void pagar(){
     }

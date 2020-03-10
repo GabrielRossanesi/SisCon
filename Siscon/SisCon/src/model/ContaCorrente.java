@@ -6,10 +6,7 @@
 
 package model;
 
-/**
- *
- * @author Murilau
- */
+
 public class ContaCorrente extends Banco{
     private double limite;
 

@@ -9,10 +9,7 @@ package controller;
 import model.Carteira;
 import model.ContaCorrente;
 
-/**
- *
- * @author Murilau
- */
+
 public class Principal {
     public static void main(String[] args) {
         Carteira cart = new Carteira();
